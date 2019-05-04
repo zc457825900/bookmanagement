@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycomp.myapp",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "bookmanagement",
+    "packageName": "com.mycomp.myapp",
+    "packageFolder": "com/mycomp/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDNjNGNmYjdiZjA0NTUwNzJhYjNjOWMwYWZkMWFmMDFlMzg0ZGUzMjY5ODc1YWQ0OGQwMzM5ZTNkM2I5YmU3MzFlNmViYmQ2NmIwOWRjZTk5M2U5YzE0YjQzN2VkYjBhOWMyYjZjY2ZmZDllMTIzN2E0NWQwMWIwODZkNjQxMzU=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ]
+  }
+}
